@@ -1,0 +1,97 @@
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/75/63/5357bd971db78f5.jpg");
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline #7dd381;
+    font-family: 'Bungee Inline', cursive;
+}
+
+#container {
+border: solid 20px rgb(45, 105, 30);
+margin-left: 10%;
+margin-right: 10%;
+background-color: white;
+}
+
+#instruction-box {
+    border-bottom: solid #7dd381 3px;;
+    margin-left:5%;
+    margin-right:5%;
+
+}
+
+.box {
+    border-bottom: solid #7dd381 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 5%;
+    text-align: center;
+}
+.scores {
+    padding: 20px;
+    margin:10px;
+    font-family: 'Bungee Inline', cursive;
+    background-color: #7dd381;
+    border: solid 5px rgb(45, 105, 30);
+}
+
+span{
+    border: solid 4px black;
+    background-color:lightgoldenrodyellow;
+    padding: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.box1 {
+    border-top: solid #7dd381 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Bungee Inline', cursive;
+}
+
+.gembox {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+/*Jewels*/
+
+#red {
+    width: 100px;
+    height: 100px;
+    padding-left: 2%;
+    padding-right:2%;
+}
+
+#blue {
+    width: 100px;
+    height: 100px;
+    padding-left: 2%;
+    padding-right:2%;
+}
+
+#green{
+    width: 100px;
+    height: 100px;
+    padding-left: 2%;
+    padding-right:2%;
+}
+
+#diamond {
+    width: 100px;
+    height: 100px;
+    padding-left: 2%;
+    padding-right:2%;
+}
